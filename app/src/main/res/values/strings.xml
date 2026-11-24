@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Snake Painel</string>
+    <string name="score">Score: %1$d</string>
+</resources>
