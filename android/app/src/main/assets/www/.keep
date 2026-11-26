@@ -1,0 +1,1 @@
+# placeholder to ensure the www folder exists; Capacitor will copy the web assets from the repo root (index.html, styles.css, app.js)

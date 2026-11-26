@@ -1,0 +1,7 @@
+{
+  "appId": "com.example.zdevapp",
+  "appName": "Zdev App",
+  "webDir": "dist",
+  "bundledWebRuntime": false,
+  "plugins": {}
+}
